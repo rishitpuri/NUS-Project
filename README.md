@@ -1,2 +1,2 @@
 # NUS-Project
-Project made during summer intern at NUS 
+Team Project made during summer intern at NUS 
